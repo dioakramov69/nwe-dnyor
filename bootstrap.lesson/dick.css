@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.offcanvas {
+  background-color: #151515;
+}
+
+li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.label-image {
+  padding: 5px 16px;
+  border-radius: 32px;
+  border: 1px solid var(--light-4, rgba(255, 255, 255, 0.04));
+  background: rgba(96, 92, 92, 0.04);
+}
+
+.main-div {
+  padding-left: 440px;
+  background-color: #1E1E1E;
+}
+
+.god-div {
+  width: 340px;
+}
+
+.Watch-now {
+  padding: 9px 15px;
+  border-radius: 10px;
+}
+
+.long-text {
+  color: #6A6A6A;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 81%;
+  letter-spacing: 0.5px;
+}
